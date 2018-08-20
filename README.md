@@ -1,2 +1,2 @@
-# THe-example-of-Arduino
+# The-example-of-Arduino
 Some example of arduino
